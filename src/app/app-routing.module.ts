@@ -5,7 +5,8 @@ import { RubroComponent } from './pages/rubro/rubro.component';
 import { ArticuloComponent } from './pages/articulo/articulo.component';
 import { PerfilComponent } from './pages/perfil/perfil.component';
 import { HomeComponent } from './pages/home/home.component';
-import { BuscarComponent } from './pages/busqueda/busqueda.component';
+import { BuscarComponent } from './pages/buscar/buscar.component';
+
 
 const routes: Routes = [
   {

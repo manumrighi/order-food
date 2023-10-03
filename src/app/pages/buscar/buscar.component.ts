@@ -3,8 +3,8 @@ import { HeaderService } from 'src/app/core/services/header.service';
 
 @Component({
   selector: 'app-buscar',
-  templateUrl: './busqueda.component.html',
-  styleUrls: ['./busqueda.component.scss']
+  templateUrl: './buscar.component.html',
+  styleUrls: ['./buscar.component.scss']
 })
 export class BuscarComponent {
   headerService = inject(HeaderService);
