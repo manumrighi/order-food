@@ -5,12 +5,13 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { TabsComponent } from './core/components/tabs/tabs.component';
 import { HeaderComponent } from './core/components/header/header.component';
+import { TarjetaArticuloComponent } from './core/components/tarjeta-producto/tarjeta-producto.component';
 @NgModule({
   declarations: [
     AppComponent,
     TabsComponent,
     HeaderComponent,
-  ],
+    ],
   imports: [
     BrowserModule,
     AppRoutingModule
